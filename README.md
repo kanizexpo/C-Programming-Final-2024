@@ -10,16 +10,16 @@
 8. Write a program in C to read n number of values in an array and display them in reverse order.
 9. Take an integer array where the user will give size and find the sum of the numbers in the array.
 10. Until the user quits, take input from the user and find whether it is zero, positive or negative using a while loop.
-Take a character array of size 20 (user input) and convert all letters to the uppercase letter. 
-Write a C program to find the second largest number.
-Write a C program to concatenate two strings.
-Write a C program to reverse a string.
-Write a C program to merge two strings.
-Write a C program to convert lowercase string to uppercase.
-Write a C program to remove all spaces from a string.
-Write a C program that will copy the elements of an array into another array.
-Write a C program that will count the sum of all elements of a 2D array.
-Write a C program to check whether a string is palindrome or not.
+11. Take a character array of size 20 (user input) and convert all letters to the uppercase letter. 
+12. Write a C program to find the second largest number.
+13. Write a C program to concatenate two strings.
+14. Write a C program to reverse a string.
+15. Write a C program to merge two strings.
+16. Write a C program to convert lowercase string to uppercase.
+17. Write a C program to remove all spaces from a string.
+18. Write a C program that will copy the elements of an array into another array.
+19. Write a C program that will count the sum of all elements of a 2D array.
+20. Write a C program to check whether a string is palindrome or not.
 Write a c program that will count the total number of alphabets and the total number of digits in a string.
 Input and display array elements
 Sum of all array elements
